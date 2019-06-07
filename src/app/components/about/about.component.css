@@ -1,0 +1,23 @@
+.canvas{
+  width: 20%;
+  height: 20%;
+
+  margin-left: 40%;
+}
+.canvas button {
+margin-left: 10%;
+}
+
+.about{
+  display: block;
+  margin-left: 10px;
+}
+
+div .parag {
+  width : 60% ;
+  height: 60%;
+  margin-left: 20%;
+  margin-top: 20px;
+}
+
+

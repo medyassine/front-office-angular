@@ -1,0 +1,27 @@
+
+.footer-container{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 6%;
+  border-top: .071em solid #cecece;
+}
+
+.footer{
+  height: 100%;
+  font-size: 14px;
+  color: #cecece ;
+  width:100% ;
+}
+
+.footer :hover {
+  color: #585858 ;
+  cursor: pointer;
+}
+
+p {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5px;
+  text-align: center;
+}

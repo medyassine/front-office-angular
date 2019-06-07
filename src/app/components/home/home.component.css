@@ -1,0 +1,29 @@
+.canvas{
+  width: 20%;
+  height: 20%;
+
+  margin-left: 100px;
+  float:left;
+  overflow:hidden;
+}
+.wrapper {
+  margin:0;
+
+}
+.left {
+  margin-left: 5%;
+  float:left;
+  width:10%;
+  overflow:hidden;
+}
+
+.table {
+  width: 500px;
+  width: 20%;
+  height: 20%;
+  margin-left : 300px;
+  margin-top: 0;
+  float:left;
+  overflow:hidden;
+}
+
